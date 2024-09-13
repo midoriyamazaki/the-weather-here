@@ -1,0 +1,25 @@
+{
+    "coord": {
+        "lon": 130.4181,
+        "lat": 33.6064
+        },
+
+    "weather": [],
+
+    "main": {
+    "temp": 15.13,
+    "feels_like": 14.58,
+    "temp_min": 14.95,
+    "temp_max": 15.67,
+    "pressure": 1011,
+    "humidity": 72
+    },
+
+
+    "name": "sunflower",
+    "r": 255,
+    "g": 200,
+    "b": 0
+
+
+}

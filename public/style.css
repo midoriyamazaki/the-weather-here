@@ -1,0 +1,8 @@
+.selector {
+  /* プロポーショナルメトリクスを有効にする指定 */
+  font-feature-settings: "palt" 1;
+}
+
+h1{
+    color: #0084ff; 
+}
